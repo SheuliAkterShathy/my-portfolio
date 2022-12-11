@@ -1,8 +1,10 @@
 import React from "react";
-
+import AOS from 'aos';
+import 'aos/dist/aos.css'; 
+AOS.init({duration:2000});
 const Contact = () => {
   return (
-    <div id="contact" className="px-6">
+    <div id="contact" className="px-6" data-aos="fade-up">
          <h1 className="px-12 font-bold text-3xl underline mb-8">Contact Me</h1>
       <section className="py-6 dark:dark:dark:bg-gray-800 dark:dark:dark:text-gray-50 ">
         <div className="grid max-w-6xl grid-cols-1 px-6 mx-auto lg:px-8 md:grid-cols-2 md:divide-x">

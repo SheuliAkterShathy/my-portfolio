@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "name":"Trusted Furniture",
+        "img":"https://i.ibb.co/tQsJ4Dz/furniture.png",
+        "details":"hhhhhhhhhhhhhhhhhhhhhhhh"
+    },
+    {
+        "id":"2",
+        "name":"Smart Education",
+        "img":"https://img.freepik.com/free-vector/medical-professionals-watching-webinar-online-platform-people-having-virtual-class-flat-illustration_74855-16906.jpg?w=1480&t=st=1666636149~exp=1666636749~hmac=34e599b97afcbc27c1047c6b0394dfa7b8d80ed79ba7b618ef11ad33d8f8e31f",
+        "details":"hhhhhhhhhhhhhhhhhhhhhhhh"
+    },
+    {
+        "id":"3",
+        "name":"Trusted Furniture",
+        "img":"https://img.freepik.com/free-vector/sweet-baked-cakes-set_1284-15477.jpg?size=338&ext=jpg&uid=R59678187&ga=GA1.2.258402809.1666072521&semt=sph",
+        "details":"hhhhhhhhhhhhhhhhhhhhhhhh"
+    }
+]

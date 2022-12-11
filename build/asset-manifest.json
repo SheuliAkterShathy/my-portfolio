@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83e4b7d8.css",
+    "main.js": "/static/js/main.1306cd27.js",
+    "static/js/787.586b53ef.chunk.js": "/static/js/787.586b53ef.chunk.js",
+    "static/media/shathy.jpg": "/static/media/shathy.eaab7554164af822c4c1.jpg",
+    "index.html": "/index.html",
+    "main.83e4b7d8.css.map": "/static/css/main.83e4b7d8.css.map",
+    "main.1306cd27.js.map": "/static/js/main.1306cd27.js.map",
+    "787.586b53ef.chunk.js.map": "/static/js/787.586b53ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e4b7d8.css",
+    "static/js/main.1306cd27.js"
+  ]
+}

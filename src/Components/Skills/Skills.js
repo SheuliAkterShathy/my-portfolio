@@ -1,8 +1,11 @@
 import React from 'react';
 import './Skills.css'
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init({duration:2000});
 const Skills = () => {
     return (
-        <div className='py-28' id='skills'>
+        <div className='py-28' id='skills' data-aos="fade-up">
             <h1 className="px-24 font-bold text-3xl underline mb-8">Professional Skills</h1>
             <div class="skills-container md:mx-16 px-3  grid md:grid-cols-2">
                     
